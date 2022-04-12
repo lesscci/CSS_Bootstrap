@@ -1,4 +1,4 @@
-Vamos a cambiar las propiedades, en este caso de los colores, de Bootstrap.
+### Vamos a cambiar las propiedades, en este caso de los colores, de Bootstrap.
 
 ----
 
@@ -41,7 +41,7 @@ Y podremos ver como se ha modificado el color!
 ![Alt text](tercera_captura.PNG "tercera captura")
 
 
-Para poder crear un color: 
+### Para poder crear un color 
 
 
 ![Alt_text](nombre_captura.PNG "nombre captura")
