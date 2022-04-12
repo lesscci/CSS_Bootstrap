@@ -29,7 +29,10 @@ Compilamos SCSS
   
 ![Alt text](primera_captura.PNG "primera captura")
 
+
 Modificamos en style.scss:
+
+
 
 ![Alt text](segunda_Captura.PNG "segunda captura")
 
