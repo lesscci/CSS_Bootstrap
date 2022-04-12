@@ -35,7 +35,7 @@ Modificamos en style.scss:
 
 Y podremos ver como se ha modificado el color!
 
-![Alt text](tercera_Captura.PNG "tercera captura")
+![Alt text](tercera_captura.PNG "tercera captura")
 
 
 
