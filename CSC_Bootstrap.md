@@ -38,4 +38,8 @@ Y podremos ver como se ha modificado el color!
 ![Alt text](tercera_captura.PNG "tercera captura")
 
 
+Para poder crear un color: 
+![Alt_text](nombre_captura.PNG "nombre captura)
 
+Modificamos el scss:
+![Alt_text](color_captura.PNG "color captura)
