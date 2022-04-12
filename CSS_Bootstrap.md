@@ -28,10 +28,12 @@ Compilamos SCSS
   El color de bootstrap "success" es verde
 ![Alt text](primera_captura.PNG "primera captura")
 
+----
 
 Modificamos en style.scss
 ![Alt text](segunda_Captura.PNG "segunda captura")
 
+----
 
 Y podremos ver como se ha modificado el color!
 ![Alt text](tercera_Captura.PNG "segunda captura")
