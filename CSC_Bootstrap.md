@@ -3,6 +3,7 @@
 ----
 
 1. Asociamos BootStrap desde NPM
+(tenemos que tener NODE JS decargado)
     Dentro del terminal: 
 
    **npm init -v**
